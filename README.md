@@ -1,2 +1,2 @@
-# SURESHOFFSETPRINTERS
-SURESH OFFSET PRINTERS(SOP), a trusted printing press. This is an Arts folio of SOP. It shows details of its owners, services that SOP renders, the works that SOP completed proudly and lastly thieir conatct
+# SURESH OFFSET PRINTERS
+This repository contains the complete source code for the Suresh Offset Printers Portfolio website. The project demonstrates a responsive, modern web design tailored for a printing services business, featuring sections for services, projects, and contact information. Built with clean HTML and CSS, the portfolio showcases branding, layout, and user-friendly navigation. Feel free to explore the code, deploy it, or customize it for similar business portfolios.
